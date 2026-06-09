@@ -1,13 +1,13 @@
 # Hi, I'm Chaitanya Vijay👋
 
-🎓 Master's Student in Web & Data Science
-🌍 Based in Germany
-💻 Interested in Frontend Development and UI Engineering
-🎨 Passionate about UI/UX Design and Digital Product Design
-📊 Exploring Data Analytics and Data Visualization
-🚀 Currently seeking Werkstudent, Internship, and Entry-Level opportunities
-🤝 Open to collaboration on web development and design projects
-🎯 My interests lie at the intersection of web development, user experience design, and data analytics. I am continuously learning and working on projects that help me bridge the gap between technology, design, and business needs.
+- 🎓 Master's Student in Web & Data Science
+- 🌍 Based in Germany
+- 💻 Interested in Frontend Development and UI Engineering
+- 🎨 Passionate about UI/UX Design and Digital Product Design
+- 📊 Exploring Data Analytics and Data Visualization
+- 🚀 Currently seeking Werkstudent, Internship, and Entry-Level opportunities
+- 🤝 Open to collaboration on web development and design projects
+- 🎯 My interests lie at the intersection of web development, user experience design, and data analytics. I am continuously learning and working on projects that help me bridge the gap between technology, design, and business needs.
 
 ## 🛠️Technical Skills
 ### Frontend Development
