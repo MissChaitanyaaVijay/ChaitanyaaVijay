@@ -46,6 +46,7 @@ Conducted research on bamboo species identification through image-based analysis
 ## 📰Publications
 Bamboo Species Classification using Graph Neural Networks
 Research focused on leveraging graph-based deep learning techniques for accurate bamboo species identification and classification.
+📄 [Read Paper](https://lnkd.in/gm_wnFDV)
 
 ## Let's Connect
 
