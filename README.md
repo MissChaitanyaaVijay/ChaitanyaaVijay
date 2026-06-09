@@ -51,5 +51,5 @@ Research focused on leveraging graph-based deep learning techniques for accurate
 ## Let's Connect
 
 I'm always interested in connecting with professionals, developers, designers, and fellow students who are passionate about technology, design, and innovation.
-LinkedIn: www.linkedin.com/in/chaitanyaa-vijay-s040902      E-mail: chaitanyaavijayofficial@gmail.com
-Feel free to reach out for collaboration, networking, or discussions about web development, UI/UX design, data science, and career opportunities.
+- LinkedIn: www.linkedin.com/in/chaitanyaa-vijay-s040902      E-mail: chaitanyaavijayofficial@gmail.com
+- Feel free to reach out for collaboration, networking, or discussions about web development, UI/UX design, data science, and career opportunities.
